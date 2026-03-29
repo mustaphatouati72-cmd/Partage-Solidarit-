@@ -1,0 +1,135 @@
+# 🧩 Partage Solidarité
+
+Application web simple et intuitive permettant de gérer l’attribution de bénéficiaires à des commerçants partenaires, avec notifications email intégrées.
+
+---
+
+## 🎯 Objectif
+
+Faciliter la gestion d’un dispositif de solidarité en centralisant :
+- les bénéficiaires
+- les commerçants
+- les attributions
+- les communications
+
+---
+
+## 🚀 Accès à l’application
+
+L’application est accessible directement en ligne :  
+👉 https://VOTRE-PSEUDO.github.io/partage-solidarite/
+
+*Aucune installation requise*
+
+---
+
+## 🧑‍💼 Fonctionnalités principales
+
+### Gestion des bénéficiaires
+- Création et modification des fiches
+- Informations :
+  - Nom
+  - Téléphone
+  - Ville
+  - Email
+
+### Gestion des commerçants
+- Ajout de commerces partenaires
+- Informations :
+  - Nom
+  - Adresse
+  - Email
+  - Jours de distribution
+
+### Attribution
+- Association d’un bénéficiaire à un commerçant
+- Visualisation claire des attributions
+
+---
+
+## 📧 Notifications email
+
+Lors d’une attribution, une fenêtre s’ouvre permettant :
+
+### 📩 Contacter le commerçant
+Email pré-rempli avec :
+- informations du bénéficiaire
+- jours de distribution
+
+### 📩 Informer le bénéficiaire
+Email contenant :
+- nom du commerce
+- adresse
+- modalités d’accès
+
+👉 Les emails s’ouvrent automatiquement dans votre messagerie (Gmail, Outlook, etc.)
+
+---
+
+## 💾 Sauvegarde des données
+
+Les données sont sauvegardées automatiquement dans le cloud via Supabase :
+
+- ✔️ Sauvegarde en temps réel  
+- ✔️ Aucune perte de données  
+- ✔️ Accessible depuis n’importe quel appareil  
+
+---
+
+## ⚠️ Prérequis
+
+Pour un fonctionnement optimal :
+
+- Renseigner une adresse email pour :
+  - chaque bénéficiaire
+  - chaque commerçant
+- Utiliser un navigateur récent (Chrome recommandé)
+
+---
+
+## 🔐 Confidentialité
+
+- Les données sont stockées de manière sécurisée
+- Aucun partage public des informations
+- Accès limité à l’application
+
+---
+
+## 🛠️ Support
+
+En cas de problème :
+
+- Vérifier que les emails sont renseignés
+- Vérifier que votre client mail est configuré
+- Rafraîchir la page si nécessaire
+
+---
+
+## 📌 Cas d’usage
+
+Cette application est adaptée pour :
+- associations
+- collectivités
+- dispositifs d’aide alimentaire
+- réseaux solidaires locaux
+
+---
+
+## 🔄 Évolutions possibles
+
+- Authentification utilisateur
+- Gestion multi-utilisateurs
+- Envoi automatique d’emails
+- Tableau de bord avancé
+
+---
+
+## 📄 Licence
+
+Projet libre d’utilisation dans un cadre associatif ou interne.
+
+---
+
+## 👤 Auteur
+
+Développé pour un usage opérationnel terrain.
